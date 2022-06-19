@@ -1,8 +1,10 @@
-
+import ProviderReadStars from "./Contexts/context"
 
 const App = () => {
 
-  return <h1>Testando VITE</h1>
+  return <ProviderReadStars>
+    <h1>teste</h1>
+  </ProviderReadStars>
 }
 
 export default App
