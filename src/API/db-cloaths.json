@@ -1,0 +1,100 @@
+{
+    "cloaths": [
+        {
+            "id_cloath": 1,
+            "constellation": "Cygnus",
+            "name": "Cisne",
+            "classification": "Bronze",
+            "image": "https://i.pinimg.com/564x/5c/c0/c6/5cc0c6f3099668e75e4d96a1eb6dfb38.jpg",
+            "kingdom": "Atena",
+            "ranking": "C-1",
+            "status": "Incompleta"
+        },
+        {
+            "id_cloath": 2,
+            "constellation": "Estrela Celeste da Fúria",
+            "name": "Wyvern",
+            "classification": "Kyoto",
+            "image": "https://i.pinimg.com/564x/5c/c0/c6/5cc0c6f3099668e75e4d96a1eb6dfb38.jpg",
+            "kingdom": "Hades",
+            "ranking": "S-1",
+            "status": "Incompleta"
+        },
+        {
+            "id_cloath": 3,
+            "constellation": "Estrela Terrestre do Ferimento",
+            "name": "Mandrágora",
+            "classification": "Sapuris",
+            "image": "https://i.pinimg.com/564x/5c/c0/c6/5cc0c6f3099668e75e4d96a1eb6dfb38.jpg",
+            "kingdom": "Hades",
+            "ranking": "B-2",
+            "status": "Completa"
+        },
+        {
+            "id_cloath": 4,
+            "constellation": "Antares",
+            "name": "Escorpião",
+            "classification": "Ouro",
+            "image": "https://i.pinimg.com/564x/5c/c0/c6/5cc0c6f3099668e75e4d96a1eb6dfb38.jpg",
+            "kingdom": "Atena",
+            "ranking": "A-1",
+            "status": "Completa"
+        },
+        {
+            "id_cloath": 5,
+            "constellation": "Estrela Celeste da Ascensão",
+            "name": "Dríade",
+            "classification": "Sapuris",
+            "image": "https://i.pinimg.com/564x/5c/c0/c6/5cc0c6f3099668e75e4d96a1eb6dfb38.jpg",
+            "kingdom": "Hades",
+            "ranking": "A-2",
+            "status": "Completa"
+        },
+        {
+            "id_cloath": 6,
+            "constellation": "Leo Minor",
+            "name": "Leão Menor",
+            "classification": "Bronze",
+            "image": "https://i.pinimg.com/564x/5c/c0/c6/5cc0c6f3099668e75e4d96a1eb6dfb38.jpg",
+            "kingdom": "Atena",
+            "ranking": "C-1",
+            "status": "Completa"
+        },
+        {
+            "id_cloath": 7,
+            "constellation": "Estrela Celeste da Violência",
+            "name": "Benu",
+            "classification": "Sapuris",
+            "image": "https://i.pinimg.com/564x/5c/c0/c6/5cc0c6f3099668e75e4d96a1eb6dfb38.jpg",
+            "kingdom": "Atena",
+            "ranking": "B-2",
+            "status": "Perdida"
+        }
+    ],
+    "users": [
+        {
+            "id_user": 1,
+            "name_user": "Little Bread",
+            "profile": "player"
+        },
+        {
+            "id_user": 2,
+            "name_user": "Nath",
+            "profile": "player"
+        },
+        {
+            "id_user": 3,
+            "name_user": "Adm Master",
+            "profile": "admin"
+        }
+    ],
+    "cloath_user": [
+        {
+            "id": 1,
+            "id_cloath_fk": "",
+            "id_user_fk": "",
+            "date": "",
+            "available": ""
+        }
+    ]
+}
