@@ -69,6 +69,16 @@
             "kingdom": "Atena",
             "ranking": "B-2",
             "status": "Perdida"
+        },
+        {
+            "id_cloath": 7,
+            "constellation": "Hades",
+            "name": "Hades",
+            "classification": "Kamui",
+            "image": "https://i.pinimg.com/564x/5c/c0/c6/5cc0c6f3099668e75e4d96a1eb6dfb38.jpg",
+            "kingdom": "Hades",
+            "ranking": "EX",
+            "status": "Perdida"
         }
     ],
     "users": [
@@ -91,10 +101,10 @@
     "cloath_user": [
         {
             "id": 1,
-            "id_cloath_fk": "",
-            "id_user_fk": "",
-            "date": "",
-            "available": ""
+            "id_cloath_fk": 7,
+            "id_user_fk": 3,
+            "date": "19/06/2022 16:06:00",
+            "available": "Bloqueada"
         }
     ]
 }
