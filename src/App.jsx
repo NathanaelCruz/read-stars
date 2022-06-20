@@ -3,7 +3,10 @@ import ProviderReadStars from "./Contexts/context"
 const App = () => {
 
   return <ProviderReadStars>
-    <h1>teste</h1>
+    <div className="background-mark-water"></div>
+    <div className="main__wrapper">
+      <h2>Tese</h2>
+    </div>
   </ProviderReadStars>
 }
 
